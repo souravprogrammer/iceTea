@@ -3,7 +3,7 @@
   "displayName": "ice tea",
   "description": "ice tea Theme",
   "publisher": "SouravSharma",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.85.0"
   },
