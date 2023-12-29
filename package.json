@@ -1,0 +1,22 @@
+{
+  "name": "ice-tea",
+  "displayName": "ice tea",
+  "description": "ice tea Theme",
+  "publisher": "SouravSharma",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ice tea",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ice tea-color-theme.json"
+      }
+    ]
+  }
+}
