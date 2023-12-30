@@ -1,4 +1,5 @@
-# ice-tea README
+# Ice Tea Theme for VSCode
+![alt text](https://github.com/souravprogrammer/iceTea/blob/master/images/theme.PNG?raw=true)
 
 # About Author
 
