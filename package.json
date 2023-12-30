@@ -1,10 +1,10 @@
 {
-  "name": "blue-ocean",
-  "displayName": "Blue Ocean",
-  "description": "Blue Ocean Theme",
+  "name": "ice-tea",
+  "displayName": "ice tea",
+  "description": "ice tea Theme",
   "publisher": "SouravSharma",
-  "icon": "images/logo.jpg",
-  "version": "1.0.0",
+  "icon": "images/icetea.jpg",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -14,17 +14,18 @@
   },
   "keywords": [
     "theme",
-    "blue ocean",
-    "ocean blue",
-    "deep blue ocean",
-    "black ocean",
-    "ocean theme",
-    "ocean blue theme",
-    "deep blue theme",
-    "dark blue",
     "tea",
     "coffee",
-    "dark"
+    "chai theme",
+    "ice theme",
+    "ice tea theme",
+    "ice",
+    "tea theme",
+    "ice tea",
+    "chai",
+    "tea dark",
+    "dark",
+    "corder tea"
   ],
   "categories": [
     "Themes"
